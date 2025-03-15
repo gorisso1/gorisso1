@@ -37,8 +37,8 @@
 ---
 
 ## 📈 GitHub Статистика
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ТВОЙ_GITHUB&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ТВОЙ_GITHUB&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gorisso1&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorisso1&layout=compact&theme=dark)
 
 ---
 
